@@ -8,7 +8,7 @@
   <br/>
 </div>
 
-<h3>Lab task on the subject "Search systems":</h3>
+<h2>Lab task on the subject "Search systems":</h2>
 <ul>
   <li>Choose a field of knowledge that you understand. It should contain at least 30 entities.</li>
   <li>Create an ontology for it using any of the suggested tools. (hint - this is similar to creating a specific database).</li>
@@ -20,7 +20,7 @@
   <li>Visualize the resulting graph.</li>
 </ul>
 
-<h3>Задача лабораторной по предмету "Посиковые системы":</h3>
+<h2>Задача лабораторной по предмету "Посиковые системы":</h2>
 <ul>
   <li>Выберите область знаний, в которой вы разбираетесь. Она должна содержать не менее 30 сущностей.</li>
   <li>Составьте для нее онтологию любым из предложенных инструментов. (подсказка - это похоже на создание специфической базы данных).</li>
@@ -31,3 +31,6 @@
   </ul>
   <li>Визуализируйте получившийся граф.</li>
 </ul>
+
+
+<h2>Results:</h2>

@@ -43,6 +43,7 @@
 
 <h3>Star Wars OntoGraf:</h3>
 ![star_wars_onе](https://github.com/user-attachments/assets/dd5793f5-27e1-4301-a75a-2874d75d978f)
+![star_wars_onе](https://github.com/user-attachments/assets/c3f25b44-b219-4d43-b297-fb37f4467447)
 
 <h3>Approximate part of the Star Wars OntoGraf:</h3>
 <img width="718" alt="Star_Wars_ontology2" src="https://github.com/user-attachments/assets/937678e5-7ca6-4705-afc6-04b5d016e8f0" />

@@ -42,7 +42,9 @@
 <img width="1792" alt="Star_Wars_individuals" src="https://github.com/user-attachments/assets/39fe909f-12ed-4f02-a305-26a6024b6061" />
 
 <h3>Star Wars OntoGraf:</h3>
-![star_wars_ontology1](https://github.com/user-attachments/assets/4f3d7679-5172-41d7-a082-e392b7bc51a6)
+![star_wars_ontology1](https://github.com/user-attachments/assets/f1c7e522-1d18-47d5-b1fc-d5b75e8a37a7)
+
+
 <h3>Approximate part of the Star Wars OntoGraf:</h3>
 <img width="718" alt="Star_Wars_ontology2" src="https://github.com/user-attachments/assets/937678e5-7ca6-4705-afc6-04b5d016e8f0" />
 

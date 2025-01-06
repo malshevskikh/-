@@ -42,7 +42,7 @@
 <img width="1792" alt="Star_Wars_individuals" src="https://github.com/user-attachments/assets/39fe909f-12ed-4f02-a305-26a6024b6061" />
 
 <h3>Star Wars OntoGraf:</h3>
-![star_wars_onе](https://github.com/user-attachments/assets/dd5793f5-27e1-4301-a75a-2874d75d978f)
+
 
 ![star_wars_onе](https://github.com/user-attachments/assets/c3f25b44-b219-4d43-b297-fb37f4467447)
 

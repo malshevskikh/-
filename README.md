@@ -33,4 +33,17 @@
 </ul>
 
 
-<h2>Results:</h2>
+<h2>Results in "Protege":</h2>
+<h3>Star Wars class hierarchy:</h3>
+<img width="1792" alt="Star_Wars_Classes" src="https://github.com/user-attachments/assets/e5caa695-ac69-4369-b2b3-66b2b77b59f2" />
+<h3>Star Wars object property hierarchy:</h3>
+<img width="675" alt="Star_Wars_object_properties" src="https://github.com/user-attachments/assets/12e1903d-b74d-4ca8-ac6f-a738c3aac304" />
+<h3>Star Wars individuals:</h3>
+<img width="1792" alt="Star_Wars_individuals" src="https://github.com/user-attachments/assets/39fe909f-12ed-4f02-a305-26a6024b6061" />
+
+<h3>Star Wars OntoGraf:</h3>
+![star_wars_ontology1](https://github.com/user-attachments/assets/4f3d7679-5172-41d7-a082-e392b7bc51a6)
+<h3>Approximate part of the Star Wars OntoGraf:</h3>
+<img width="718" alt="Star_Wars_ontology2" src="https://github.com/user-attachments/assets/937678e5-7ca6-4705-afc6-04b5d016e8f0" />
+
+

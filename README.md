@@ -14,11 +14,12 @@
   <li>Create an ontology for it using any of the suggested tools. (hint - this is similar to creating a specific database).</li>
   <ul>
       <li>The number of classes is at least 5.</li>
-      <li>Mandatory use of at least two basic ontologies (commonly used prefixes), such as foaf, geo, dc, rdf, rdfs, etc. The prefix reference is available at: <a href=http://prefix.cc/"><\a></li>
+      <li>Mandatory use of at least two basic ontologies (commonly used prefixes), such as foaf, geo, dc, rdf, rdfs, etc. The prefix reference is available at: <a href=http://prefix.cc/"></li>
       <li>Try to use different relations (symmetric-transitive-inverse...)</li>
   </ul>
   <li>Visualize the resulting graph.</li>
 </ul>
+        
 1. Выберите область знаний, в которой вы разбираетесь. Она должна содержать не менее 30 сущностей.
 2. Составьте для нее онтологию любым из предложенных инструментов. (подсказка - это похоже на создание специфической базы данных).
 2.1. Количество классов – не менее 5.
